@@ -20,17 +20,16 @@
 
 ### 📈 Статистика GitHub
 
-![](https://github-profile-trophy.vercel.app/?username=Ryize&theme=onedark)
+![](https://github-profile-trophy.vercel.app/?username=daniil-lavrov&theme=onedark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryize&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniil-lavrov&theme=dark)](https://git.io/streak-stats)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ryize&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniil-lavrov&theme=solarized_dark)
 
-![](https://komarev.com/ghpvc/?username=Ryize&color=dc143c)
+![](https://komarev.com/ghpvc/?username=daniil-lavrov&color=dc143c)
 <br>
 
 ### 🗣 Я в соц сетях
 
-<a href='https://vk.com/matvey.chekashov'>![](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)</a><br>
-<a href='https://t.me/mchekashov'>![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
+<a href='https://t.me/lavrov_daniil'>![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
