@@ -1,16 +1,19 @@
-## Hi there 👋
+# Даниил Лавров
 
-<!--
-**daniil-lavrov/daniil-lavrov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 🧑‍💻 Привет, меня зовут Даниил Лавров. Я DevOps-инженер, живу в России, Москва.
 
-Here are some ideas to get you started:
+### 📈 Статистика GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-trophy.vercel.app/?username=daniil-lavrov&theme=onedark)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daniil-lavrov&theme=dark)](https://git.io/streak-stats)
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniil-lavrov&theme=solarized_dark)
+
+![](https://komarev.com/ghpvc/?username=daniil-lavrov&color=dc143c)
+<br>
+
+### 🗣 Я в соц сетях
+
+<a href='https://t.me/yavver'>![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
